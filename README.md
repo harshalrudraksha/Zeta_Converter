@@ -53,6 +53,9 @@ Option 2: Using `.prj` file
 ## 👤 Author
 
 Harshal Rudraksha  
-Electrical Engineering  
+Electronics & Communication Engineering  
 Indian Institute of Technology Indore
 
+## 🧠 License
+
+MIT License – free to use, modify, and distribute with credit.
